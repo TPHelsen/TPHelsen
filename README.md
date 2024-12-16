@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Just started with GitHub to learn about coding. 
+First of I need to get to know this site and how to navigate it. Maybe I will end up learning other things than I planned :D
+
+_Keep swiming_ 
+
 <!--
 **TPHelsen/TPHelsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
